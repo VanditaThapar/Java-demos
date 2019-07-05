@@ -6,7 +6,7 @@
 	<artifactId>my-webapp</artifactId>
 	<packaging>war</packaging>
 	<version>2.0</version>
-	<name>my-webapp Maven Webapp</name>
+	<name>my-webapp Maven Webapp1</name>
  
 	<description>A demo for deployment to the Central Repository via OSSRH using Bitbucket Pipeline</description>
 	<url>https://bitbucket.org/thinknyx/maven_web_application</url>
